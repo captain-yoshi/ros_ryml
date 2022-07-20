@@ -1,0 +1,10 @@
+<package format="2">
+	<name>ryml</name>
+	<version>0.0.0</version>
+	<description>rapidyaml as a ros package</description>
+
+	<license>MIT</license>
+	<maintainer email="captain.yoshisaur@gmail.com">Captain Yoshi</maintainer>
+
+	<buildtool_depend>catkin</buildtool_depend>
+</package>
